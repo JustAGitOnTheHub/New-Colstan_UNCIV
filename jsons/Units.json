@@ -1,16 +1,15 @@
 [
 	{
 		"name": "Colstan Airship",
-		"unitType": "Ranged",
+		"unitType": "Helicopter",
 		"uniqueTo": "New Colstan",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
+		"movement": 4,
+		"strength": 30,
+		"cost": 250,
 		"requiredTech": "Steam Power",
 		"requiredResource": "Coal",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"uniques": ["[+100]% Strength <vs cities> <when attacking>","[+100]% Strength <vs [Helicopter] units>","No defensive terrain bonus", "Can move after attacking",
+			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit"],
+		"attackSound": "bombing"
 	}
 ]
