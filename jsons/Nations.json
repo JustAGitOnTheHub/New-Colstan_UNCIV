@@ -11,7 +11,7 @@
 		
 		"declaringWar": "A state of war now exists between our civilizations",
 		"attacked": "We will respond take all necessary measures to defend our country from your barbarism.",
-		"defeated": "New Colstan has fallen...our world has entered an era of barbarism and darkness...",
+		"defeated": "New Colstan has fallen...our world has entered an era of darkness...",
 		"introduction": "Greetings from New Colstan. Our country welcomes you.",
 		
 		"neutralHello": "Good day",
@@ -27,10 +27,11 @@
 		"afterPeace": "We proclaim the cessation of all hostilities on land, air and sea.",
 		"tradeRequest": "We offer you a lucrative trade deal for all parties involved.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["Colstan City",
-			"Q'Dhihien","Copperborough","Steamburg","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [198, 141, 99],
+		"innerColor": [240, 199, 0],
+		"uniqueName": "Industrialized Nation",
+		"uniques": ["Starts with [Scientific Theory]","Starts with [Industrialization]","Starts with [Rifling]", "Starts with [Steam Power]"],
+		"cities": ["Colstan City","Colton","Copperborough","Steamburg","Irontown","O'katon","Quessburg","Stelworth","Zaqay"],
+		"spyNames": ["Richardson", "Colter", "Betty", "Zimmerman", "Emily", "Isaac", "Za'ki", "Qa'yna"]
 	}
 ]
