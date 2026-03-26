@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "New Colstan",
+		"leaderName": "Governor Richmond Colstan",
+		"adjective": ["Colstani"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Governor, our nation has faced many challenges before; Your ancestor and his followers struggled to establish their own colony on a new, undiscovered land. Then for centuries the colony languished in poverty until the discovery of coal on our territory. We industrialized and prospered and were known across the world, until a mysterious storm sent us back into the past",
+		"startIntroPart2": "Governor, I know this situation is unprecedented, but we need you to lead our nation so we may reindustrialize and prosper once more",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
