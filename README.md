@@ -1,5 +1,6 @@
 # NEW COLSTAN
 
-An example mod for Unciv, that adds one new Civilization.
+My first modded UNCIV civilization. Meant to be fun and slightly overpowered
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+Starts with Industrialization and a few industrial-era techs unlocked. Its up to you to research the rest and reindustrialize your civilization.
+Conquer the world before they can get ahead, promote your advanced culture, or invest in science and reach ever-greater heights
