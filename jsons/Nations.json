@@ -24,15 +24,13 @@
 		"hateNo": ["Impossible","We cannot accept this","I beg your pardon? Unacceptable!"],
 		"hateYes": ["It's acceptable","Good enough, I suppose.","Very well then..."],
 		
-		"afterPeace": "Peace among our nations. Lets us industry and trade flourish once more!",
-		"tradeRequest": "We offer you a lucrative trade deal.",
+		"afterPeace": "We proclaim the cessation of all hostilities on land, air and sea.",
+		"tradeRequest": "We offer you a lucrative trade deal for all parties involved.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Colstan City","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Colstan City",
+			"Q'Dhihien","Copperborough","Steamburg","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
 ]
